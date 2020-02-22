@@ -1,4 +1,4 @@
-alert('Raih 3 Skor untunk Meraih Kemenangan!!\n Selamat Bermain.. :D');
+alert('Raih 3 Skor untuk Meraih Kemenangan!!\n Selamat Bermain.. :D');
 // menangkap pilihan computer
 function getPilihanComputer() {
 
